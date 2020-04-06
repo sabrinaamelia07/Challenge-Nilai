@@ -1,7 +1,7 @@
 # Challenge-Nilai
 #Satu
 #![AltText](https://github.com/sabrinaamelia07/Challenge-Nilai/blob/master/Screenshot%20(110).png "Satu")
-# Di daalam databasenya,membuat 3 tabel yaitu kelas,jurusan,dan siswa
+# Di dalam databasenya,membuat 3 tabel yaitu kelas,jurusan,dan siswa
 #Dua
 #![AltText](https://github.com/sabrinaamelia07/Challenge-Nilai/blob/master/Screenshot%20(111).png "Dua")
 # Merupakan hasil tambahan inputan user dalam localhost/Raport
