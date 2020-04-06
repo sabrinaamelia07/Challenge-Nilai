@@ -9,6 +9,6 @@
 #![AltText](https://github.com/sabrinaamelia07/Challenge-Nilai/blob/master/Screenshot%20(107).png "Tiga")
 #Empat
 #![AltText](https://github.com/sabrinaamelia07/Challenge-Nilai/blob/master/Screenshot%20(108).png "Empat")
-# Bagianuntuk menambah input data siswa oleh user
+# Bagian untuk menambah input data siswa oleh user
 #Lima
 #![AltText](https://github.com/sabrinaamelia07/Challenge-Nilai/blob/master/Screenshot%20(109).png "Lima")
